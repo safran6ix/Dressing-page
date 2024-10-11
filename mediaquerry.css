@@ -1,0 +1,134 @@
+@media screen and (max-width:460px){
+    *{
+        transition: 400ms;
+    }
+    .top-bar p{
+       display: none;
+    } 
+    .side-navbar-btn{
+        display: block;
+    }
+    .navbar-container{
+        height: 2500px;
+    }
+    .input{
+        display: none;
+    }
+    .img01{
+        position: absolute;
+        width: 300px;
+        height: 200px;
+        top: 320px;
+        left: -790px;
+    }
+    .navbar-container h1{
+        top: 220px;
+        left: 25px;
+    }
+    .navbar-container h4{
+        top: 350px;
+        left: 30px;
+    }
+    .navbar-boxes{
+        width: 100%;
+        height: 1700px;
+        /* background-color: rgb(0, 255, 255); */
+
+    }
+    .navbar-box01{
+        position: absolute;
+        top: 100px;
+        width: 300px;
+        height: 300px;
+    }
+    .navbar-boxes
+    .navbar-box01 img{
+        width: 280px;
+        height: 280px;
+    }
+    .navbar-box02{
+        position: absolute;
+        top: 500px;
+        width: 300px;
+        height: 300px;
+    }
+    .navbar-boxes
+    .navbar-box02 img{
+        width: 280px;
+        height: 280px;
+    }
+    .navbar-box03{
+        position: absolute;
+        top: 900px;
+        width: 300px;
+        height: 300px;
+    }
+    .navbar-boxes
+    .navbar-box03 img{
+        width: 280px;
+        height: 280px;
+    }
+    .navbar-box04{
+        position: absolute;
+        top: 1300px;
+        width: 300px;
+        height: 300px;
+    }
+    .navbar-boxes
+    .navbar-box04 img{
+        width: 280px;
+        height: 280px;
+    }
+
+
+
+    .body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        width: 100%;
+        height: 2000px;
+        /* background-color: #eee; */
+        top: 2100px;
+        display: non;
+    }
+    .middle-box01{
+        height: 800px;
+        /* background-color: aqua; */
+        top: 100px;
+    }
+    .img02{
+        /* position: absolute; */
+        width: 300px;
+        margin-left: -170px;
+        top: 350px;
+    }
+    .body h1{
+        margin-top: -180%;
+        margin-left: 8%;
+        /* background-color: black; */
+    }
+    .body-lorem01{
+        width: 85%;
+        height: 120px;
+        margin-top: -10%;
+        left: 10%;
+    }
+    .middle-box01 button{
+        position: absolute;
+        right: 30%;
+        top: 90%;
+    }
+    .middle-box02{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        width: 100%;
+        height: 600px;
+        /* background-color: rgba(255, 228, 196, 0.174); */
+        top: 1000px;   
+        display: none;
+    }
+}
