@@ -456,8 +456,8 @@ body{
     position: absolute;
     top: 50px;
     /* left: 50px; */
-    font-size: 30px;
+    font-size: 25px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
-    font-weight: 400;
+    font-weight: 100;
 }
