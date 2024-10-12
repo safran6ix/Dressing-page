@@ -246,7 +246,7 @@ body{
     width: 100%;
     height: 500px;
     /* background-color: aqua; */
-    top: 300px;
+    top: 200px;
 }
 .img02{
     position: absolute;
@@ -299,9 +299,9 @@ body{
     align-items: center;
     position: absolute;
     width: 100%;
-    height: 600px;
-    background-color: rgba(255, 228, 196, 0.174);
-    top: 1000px;   
+    height: 1200px;
+    /* background-color: rgba(255, 228, 196, 0.174); */
+    top: 900px;   
 }
 .middle-box02 h3{
     position: absolute;
@@ -449,8 +449,14 @@ body{
     position: absolute;
     width: 100%;
     height: 300px;
-    background-color: rgba(255, 255, 255, 0.222);
+    /* background-color: rgba(255, 255, 255, 0.222); */
     bottom: 0px; 
+}
+.horizontal{
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    border: 1px solid #969696;
 }
 .middle-box03 h4{
     position: absolute;
@@ -461,3 +467,164 @@ body{
     color: white;
     font-weight: 100;
 }
+.icon-bar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    /* background-color: aqua; */
+    top: 100px;
+}
+.icon-bar i{
+    color: white;
+    font-size: 18px;
+}
+.middle-box03 h5{
+    position: absolute;
+    top: 130px;
+    padding: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: 100;
+}
+.middle-box03 h6{
+    position: absolute;
+    bottom: -15px;
+    padding: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(255, 255, 255, 0.353);
+    font-weight: 100;
+}
+
+
+.middle-imges-box0202{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    height: 300px;
+    /* background-color: rgb(0, 255, 255); */
+    top: 700px;
+}
+.middle-imges-box0202
+.middle-imges-box0101 img{
+    width: 230px;
+    height: 230px;
+    /* background-color: #9a9999; */
+}
+.middle-imges-box0101 h4{
+    position: absolute;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    top: 300px;
+}
+.middle-imges-box0101 h5{
+    position: absolute;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    padding-top: 60px;
+}
+.middle-imges-box0101 button{
+    position: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    font-weight: 100;
+    color: white;
+    width: 130px;
+    height: 30px;
+    background-color: #00000042;
+    border: none;
+    border: 1px solid rgba(255, 255, 255, 0.312);
+    top: 360px;
+    margin-left: -230px;
+}
+.middle-imges-box0101 button:hover{
+    background-color: orange;
+    cursor: pointer;
+    color: #000;
+}
+
+.middle-imges-box0202
+.middle-imges-box0201 img{
+    width: 230px;
+    height: 230px;
+}
+.middle-imges-box0201 h4{
+    position: absolute;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    top: 300px;
+}
+.middle-imges-box0201 h5{
+    position: absolute;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    padding-top: 60px;
+}
+.middle-imges-box0201 button{
+    position: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    font-weight: 100;
+    color: white;
+    width: 130px;
+    height: 30px;
+    background-color: #00000042;
+    border: none;
+    border: 1px solid rgba(255, 255, 255, 0.312);
+    top: 360px;
+    margin-left: -230px;
+}
+.middle-imges-box0201 button:hover{
+    background-color: orange;
+    cursor: pointer;
+    color: #000;
+}
+
+.middle-imges-box0202
+.middle-imges-box0301 img{
+    width: 230px;
+    height: 250px;
+    
+}
+.middle-imges-box0301 h4{
+    position: absolute;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    top: 300px;
+}
+.middle-imges-box0301 h5{
+    position: absolute;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    padding-top: 60px;
+}
+.middle-imges-box0301 button{
+    position: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    font-weight: 100;
+    color: white;
+    width: 130px;
+    height: 30px;
+    background-color: #00000042;
+    border: none;
+    border: 1px solid rgba(255, 255, 255, 0.312);
+    top: 360px;
+    margin-left: -230px;
+}
+.middle-imges-box0301 button:hover{
+    background-color: orange;
+    cursor: pointer;
+    color: #000;
+}
+
