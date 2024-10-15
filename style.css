@@ -637,3 +637,28 @@ body{
     background-color: orangered;
     cursor: pointer;
 }
+.cart-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    height: 450px;
+    background-color: white;
+    top: -600px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    /* display: none; */
+    transition: 400ms;
+}
+.cart-close-btn{
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    right: 20px;
+    bottom: 20px;
+    font-size: 20px;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+}
