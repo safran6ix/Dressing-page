@@ -132,6 +132,9 @@
         display: none;
     }
     .cart{
+        top: 135px;
+    }
+    .user-account{
         top: 80px;
     }
 }
