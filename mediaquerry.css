@@ -131,4 +131,7 @@
         top: 1000px;   
         display: none;
     }
+    .cart{
+        top: 80px;
+    }
 }
