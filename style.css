@@ -681,3 +681,10 @@ body{
     background-color: orange;
     cursor: pointer;
 }
+.cart-page01{
+    position: absolute;
+    width: 500px;
+    height: 400px;
+    background-color: #fb7b7b;
+    border-radius: 10px;
+}
