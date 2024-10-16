@@ -137,4 +137,24 @@
     .user-account{
         top: 80px;
     }
+    .login-page-container{
+        width: 90%;
+     }
+     .input-box01{
+        width: 90%;
+        /* background-color: aqua; */
+    }
+    .horizontal{
+        width: 90%;
+    }
+    .input-box02{
+        width: 90%;
+    }
+    .login-page-container h5{
+        right: 10%;
+    }
+    .login-page-container button{
+        width: 80%;
+    }
+
 }

@@ -44,7 +44,7 @@ body{
    position: absolute;
    width: 500px;
    height: 500px;
-   background-color: rgba(255, 255, 255, 0.100);
+   background-color: rgba(255, 255, 255, 0.088);
 }
 .title{
     position: absolute;
@@ -71,7 +71,7 @@ body{
     font-weight: 100;
     color: white;
 }
-.input{
+.email-input{
     position: absolute;
     width: 350px;
     height: 50px;
